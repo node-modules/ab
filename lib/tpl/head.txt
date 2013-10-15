@@ -1,0 +1,5 @@
+This is %s, %s Version %s
+Copyright (c) 2013 %s
+The %s License
+
+Benchmarking ... (be patient)
