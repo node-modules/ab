@@ -23,7 +23,7 @@ var fn = function (callback) {
 // fn must follow `fn(callback)` format.
 ab.run(fn, {
   concurrency: 5,
-  requests: 1000
+  requests: 100
 }).on('end', function (report) {
   console.log(report);
 }).on('error', function (err) {
