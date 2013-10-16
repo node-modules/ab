@@ -1,6 +1,6 @@
 {
   "name": "ab",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A benchmark tool.",
   "main": "index.js",
   "scripts": {
