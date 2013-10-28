@@ -21,5 +21,5 @@ var fn = function (callback) {
 
 ab.run(fn, {
   concurrency: 50,
-  requests: 100000
+  requests: 200000
 });
