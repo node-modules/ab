@@ -7,6 +7,9 @@ Time taken for tests:   %s seconds
 Complete requests:      %d
 Failed requests:        %d
 Errors:                 %d
+Total transferred:      %s, %s [Kbytes/sec]
+Sent transferred:       %s, %s [Kbytes/sec]
+Receive transferred:    %s, %s [Kbytes/sec]
 Requests per second:    %s [#/sec]
 Average RT:             %s [ms] 
 Min RT:                 %s [ms]

@@ -24,7 +24,7 @@ console.log('dns.resolve(%j) Benchmark\n', domain);
 var fn = function (callback) {
   dns.resolve(domain, function (err, addresses) {
     // err, success
-    callback(err, addresses && addresses.length > 0);
+    callback(err, addresses && addresses.length > 0, {reqSize: 100, resSize: 200});
   });
 };
 
