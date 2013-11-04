@@ -20,6 +20,7 @@ var fn = function (callback) {
 };
 
 ab.run(fn, {
+  name: 'fs.exists(__filename)',
   concurrency: 50,
   requests: 200000
 });

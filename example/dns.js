@@ -30,6 +30,7 @@ var fn = function (callback) {
 
 // fn must follow `fn(callback)` format.
 ab.run(fn, {
+  name: 'dns.js',
   concurrency: parseInt(process.argv[3], 10) || 10,
   requests: parseInt(process.argv[4], 10) || 10000,
 });
