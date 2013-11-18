@@ -1,6 +1,8 @@
 ab [![Build Status](https://secure.travis-ci.org/fengmk2/ab.png)](http://travis-ci.org/fengmk2/ab) [![Coverage Status](https://coveralls.io/repos/fengmk2/ab/badge.png)](https://coveralls.io/r/fengmk2/ab) [![Build Status](https://drone.io/github.com/fengmk2/ab/status.png)](https://drone.io/github.com/fengmk2/ab/latest)
 =======
 
+[![NPM](https://nodei.co/npm/ab.png?downloads=true&stars=true)](https://nodei.co/npm/ab/)
+
 ![logo](https://raw.github.com/fengmk2/ab/master/logo.png)
 
 A benchmark tool.
@@ -32,7 +34,7 @@ ab.run(fn, {
 ## Result example
 
 ```bash
-$ node example/fs.js 
+$ node example/fs.js
 This is ab, A benchmark tool. Version 0.0.1
 Copyright (c) 2013 fengmk2 <fengmk2@gmail.com> (http://fengmk2.github.com)
 The MIT License
@@ -58,7 +60,7 @@ Complete requests:      100000
 Failed requests:        0
 Errors:                 0
 Requests per second:    38022.814 [#/sec]
-Average RT:             1.313 [ms] 
+Average RT:             1.313 [ms]
 Min RT:                 0.038 [ms]
 Max RT:                 50.989 [ms]
 
@@ -86,7 +88,7 @@ RT ranges:
   1000+    [ms]:        0 (0.0%)
 ```
 
-## License 
+## License
 
 (The MIT License)
 
