@@ -24,4 +24,7 @@ ab.run(fn, {
   concurrency: 50,
   requests: 200000,
   filename: 'fs_exists.txt'
+}, function(err, result) {
+    if (err) return console.error(err);
+    console.log(result);
 });
