@@ -1,4 +1,11 @@
 
+0.0.8 / 2014-02-08 
+==================
+
+  * Added callback to library.
+  * Added feature to write benchmark report to file. (@AndrewRademacher)
+  * install from cnpm
+
 0.0.7 / 2013-11-19 
 ==================
 
