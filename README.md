@@ -1,4 +1,4 @@
-ab [![Build Status](https://secure.travis-ci.org/fengmk2/ab.png)](http://travis-ci.org/fengmk2/ab) [![Coverage Status](https://coveralls.io/repos/fengmk2/ab/badge.png)](https://coveralls.io/r/fengmk2/ab) [![Build Status](https://drone.io/github.com/fengmk2/ab/status.png)](https://drone.io/github.com/fengmk2/ab/latest)
+ab
 =======
 
 [![NPM](https://nodei.co/npm/ab.png?downloads=true&stars=true)](https://nodei.co/npm/ab/)
