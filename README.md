@@ -3,7 +3,7 @@ ab
 
 [![NPM](https://nodei.co/npm/ab.png?downloads=true&stars=true)](https://nodei.co/npm/ab/)
 
-![logo](https://raw.github.com/fengmk2/ab/master/logo.png)
+![logo](https://raw.github.com/node-modules/ab/master/logo.png)
 
 A benchmark tool.
 

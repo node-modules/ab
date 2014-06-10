@@ -1,6 +1,6 @@
 {
   "name": "ab",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "A benchmark tool.",
   "main": "index.js",
   "scripts": {
@@ -29,14 +29,14 @@
     "mocha-lcov-reporter": "*",
     "mocha": "*"
   },
-  "homepage": "https://github.com/fengmk2/ab",
+  "homepage": "https://github.com/node-modules/ab",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fengmk2/ab.git",
-    "web": "https://github.com/fengmk2/ab"
+    "url": "git://github.com/node-modules/ab.git",
+    "web": "https://github.com/node-modules/ab"
   },
   "bugs": {
-    "url": "https://github.com/fengmk2/ab/issues",
+    "url": "https://github.com/node-modules/ab/issues",
     "email": "fengmk2@gmail.com"
   },
   "keywords": [
