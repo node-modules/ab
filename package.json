@@ -16,18 +16,18 @@
     }
   },
   "dependencies": {
-    "microtime": "~0.5.1",
-    "debug": "~1.0.1"
+    "debug": "~2.0.0",
+    "microtime": "~1.0.1"
   },
   "devDependencies": {
     "autod": "*",
-    "contributors": "*",
-    "should": "*",
     "blanket": "*",
-    "travis-cov": "*",
+    "contributors": "*",
     "coveralls": "*",
+    "mocha": "*",
     "mocha-lcov-reporter": "*",
-    "mocha": "*"
+    "should": "~4.0.4",
+    "travis-cov": "*"
   },
   "homepage": "https://github.com/node-modules/ab",
   "repository": {
