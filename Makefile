@@ -4,7 +4,7 @@ TIMEOUT = 1000
 MOCHA_OPTS =
 
 install:
-	@npm install --registry=http://registry.npm.taobao.org --disturl=http://npm.taobao.org/dist
+	@npm install --registry=https://registry.npmmirror.com --disturl=http://npm.taobao.org/dist
 
 test: install
 	@NODE_ENV=test ./node_modules/.bin/mocha \
